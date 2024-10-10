@@ -1,7 +1,7 @@
 # Vite PWA Project
 
-![Vite Logo](https://vitejs.dev/logo.svg)
-![PWA Logo](https://upload.wikimedia.org/wikipedia/commons/a/a9/Progressive_Web_Apps_Logo.svg)
+<img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="150"/>
+<img src="https://raw.githubusercontent.com/webmaxru/progressive-web-apps-logo/master/pwa-logo.png" alt="PWA Logo" width="150"/>
 
 This repository contains a fully functional Progressive Web Application (PWA) built using Vite. The application is designed to provide a fast and seamless experience, including features such as:
 
