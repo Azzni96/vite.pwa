@@ -12,15 +12,13 @@ This repository contains a fully functional Progressive Web Application (PWA) bu
 if you want to do build to dist two html you should write to vite.config.ts 
 ________________________________________
   build: {
-  
     rollupOptions: {
     
       input: {
       
         index: './index.html',
         
-        main: 'main.html'
-        
+        main: 'main.html'        
       }
     }
   }
