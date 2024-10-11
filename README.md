@@ -9,4 +9,15 @@ This repository contains a fully functional Progressive Web Application (PWA) bu
 - **Efficient performance**: Built with Vite, it ensures fast loading times and smooth navigation.
 - **Progressive enhancements**: Optimized for both desktop and mobile users.
 
+if you want to do build to dist two html you should write to vite.config.ts 
+________________________________________
+  build: {
+    rollupOptions: {
+      input: {
+        index: './index.html',
+        main: 'main.html'
+      }
+    }
+  }
+_______________________________________
 Feel free to explore the source code, and contributions are welcome!
