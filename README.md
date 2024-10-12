@@ -7,6 +7,7 @@ Before getting started, install the PWA plugin by running the following command 
 ``
 bash
 ``
+``
 npm install -D vite-plugin-pwa
 ``
 
