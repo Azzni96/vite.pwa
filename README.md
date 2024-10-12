@@ -3,7 +3,9 @@
 <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="150"/>
 
 first you should put this codes to Terminal 
+
 npm install -D vite-plugin-pwa
+
 after that you can copy all codes 
 
 This repository contains a fully functional Progressive Web Application (PWA) built using Vite. The application is designed to provide a fast and seamless experience, including features such as:
