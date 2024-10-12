@@ -3,10 +3,14 @@ Vite PWA Project
 
 Installation
 Before getting started, install the PWA plugin by running the following command in your terminal:
+bash
 
-``bash
-npm install -D vite-plugin-pwa
+
 ``
+npm install -D vite-plugin-pwa
+
+``
+
 Once installed, you can copy and use the following code.
 
 Project Features
