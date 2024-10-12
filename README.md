@@ -1,5 +1,8 @@
 Vite PWA Project
+
 <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="150"/>
+
+
 Installation
 Before getting started, install the PWA plugin by running the following command in your terminal:
 
