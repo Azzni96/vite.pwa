@@ -21,12 +21,9 @@ ts
 Kopioi koodi
 // vite.config.ts
 
-build: 
-{  
-  rollupOptions: 
-  {
-    input:
-    {
+build: {  
+  rollupOptions: {
+    input: {
       index: './index.html',
       main: 'main.html'        
     }
