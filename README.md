@@ -25,7 +25,7 @@ If you want to build the project with two separate HTML files (index.html and ma
 ts
 Kopioi koodi
 // vite.config.ts
-
+/*
  build: {
      rollupOptions: {
     input: {
@@ -34,6 +34,7 @@ Kopioi koodi
     }
   }
   }
+*/
 
 Contributing
 Feel free to explore the source code, and contributions are welcome!
