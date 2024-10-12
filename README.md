@@ -1,14 +1,9 @@
 Vite PWA Project
-
 <img src="https://vitejs.dev/logo.svg" alt="Vite Logo" width="150"/>
-
-
 Installation
 Before getting started, install the PWA plugin by running the following command in your terminal:
 
 bash
-Kopioi koodi
-
 npm install -D vite-plugin-pwa
 
 Once installed, you can copy and use the following code.
@@ -22,28 +17,16 @@ Progressive enhancements: Optimized for both desktop and mobile users.
 Building with Two HTML Files
 If you want to build the project with two separate HTML files (index.html and main.html), add the following configuration to your vite.config.ts file:
 
-ts
+```ts`` 
 Kopioi koodi
 // vite.config.ts
-/*
-
- build: {
-
-     rollupOptions: {
-
+build: {
+  rollupOptions: {
     input: {
-
       index: './index.html',
-
       main: 'main.html'
-
     }
-
-   }
-
   }
-
-*/
-
+}
 Contributing
 Feel free to explore the source code, and contributions are welcome!
