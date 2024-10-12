@@ -17,7 +17,7 @@ Progressive enhancements: Optimized for both desktop and mobile users.
 Building with Two HTML Files
 If you want to build the project with two separate HTML files (index.html and main.html), add the following configuration to your vite.config.ts file:
 
-```ts`` 
+```ts 
 // vite.config.ts
 build: {
   rollupOptions: {
@@ -26,6 +26,6 @@ build: {
       main: 'main.html'
     }
   }
-}
+} ``
 Contributing
 Feel free to explore the source code, and contributions are welcome!
