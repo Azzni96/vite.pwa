@@ -26,6 +26,7 @@ ts
 Kopioi koodi
 // vite.config.ts
 /*
+
  build: {
 
      rollupOptions: {
@@ -41,6 +42,7 @@ Kopioi koodi
    }
 
   }
+
 */
 
 Contributing
