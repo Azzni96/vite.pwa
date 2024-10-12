@@ -5,7 +5,9 @@ Before getting started, install the PWA plugin by running the following command 
 
 bash
 Kopioi koodi
+
 npm install -D vite-plugin-pwa
+
 Once installed, you can copy and use the following code.
 
 Project Features
