@@ -27,6 +27,6 @@ build: {
     }
   }
 } 
-_______________________________________________
+```
 Contributing
 Feel free to explore the source code, and contributions are welcome!
