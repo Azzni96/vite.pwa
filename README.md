@@ -17,9 +17,7 @@ This repository contains a fully functional Progressive Web Application (PWA) bu
 if you want to do build to dist two html you should write to vite.config.ts 
 ___________________________________________________________________________________________________________________________________________________________________________
 
-  build: {
-  
-    rollupOptions: {
+  build: {  rollupOptions: {
     
       input: {
       
